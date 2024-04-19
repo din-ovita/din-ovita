@@ -16,18 +16,19 @@
   Hello There, I'm Dinda Novita
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRmc3R6OWE2ZmR4YzBieHhrZGFrd2tqd3JtMXB5N3VxNTR4dXJ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"/>
+<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRmc3R6OWE2ZmR4YzBieHhrZGFrd2tqd3JtMXB5N3VxNTR4dXJ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"/> -->
 </div>
 
 ---
 
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+### :woman_technologist: About Me :
+  :raised_hands: I am a Full Stack Developer from Indonesia
 
-- :seedling: Exploring Technical Content Writing.
+ :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I watch movie and read tech articles.
+ :seedling: Exploring Technical Content Writing.
+
+ :zap: In my free time, I watch movie and read tech articles.
  
 ---
 
