@@ -26,7 +26,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I play game such Valorant and read tech articles.
+- :zap: In my free time, I watch movie and read tech articles.
  
 ---
 
