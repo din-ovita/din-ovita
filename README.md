@@ -22,11 +22,13 @@
 ---
 
 ### :woman_technologist: About Me :
-  :raised_hands: I am a Full Stack Developer from Indonesia
+  :raised_hands: I am a Full Stack Developer from Indonesia, using programming languages like JavaScript, Java, PHP, and SQL, seeking a spark of inspiration to break through.
 
- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+ :telescope: Utilizing frameworks like React.js, Spring Boot, and CodeIgniter for efficient coding, I find myself in a captivating coding labyrinth, yearning for the elusive breakthrough.
 
- :seedling: Exploring Technical Content Writing.
+  :paintbrush: Incorporating Bootstrap and Tailwind to enhance website aesthetics, while harnessing Firebase for seamless online data storage.
+ 
+ :desktop_computer: Crafting programs with VS Code and IntelliJ, sculpting program flows with Figma, my creative sanctuary thrives in the realm of code. 
 
  :zap: In my free time, I watch movie and read tech articles.
  
@@ -34,24 +36,24 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQl" width="60" height="60"/>&nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" title="CI" alt="CI" width="60" height="60"/>&nbsp;
-          
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS" alt="VS" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
+
+  
 </div>
 
 ---
